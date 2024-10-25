@@ -9,7 +9,7 @@ namespace StockValueCalculator
     public class Inventory
     {
         private List<Product> products = new List<Product>();
-        private string S1 = "testy";
+        private string S1 = "really testy";
 
         public void AddProduct(string name, string authorArtist, int pagesTracks, decimal basePrice, string type)
         {
